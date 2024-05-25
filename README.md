@@ -1,29 +1,22 @@
-Sporty Booky is a sophisticated application designed for the reservation of sports facilities and networking with like-minded sports enthusiasts. The platform facilitates the discovery of fellow athletes by leveraging geolocation to identify nearby users with similar sports interests. Once a match is found, users can engage in direct communication through an integrated chat feature to coordinate the selection of a sports venue.
+The Self-Checkout Market is strategically designed to facilitate a seamless and efficient payment experience for consumers, catering specifically to settings where speed and convenience are paramount. This innovative system empowers users to execute transactions independently, without the necessity for cashier intervention, thus streamlining the checkout process. The primary objective is to significantly enhance user convenience by minimizing wait times and eradicating the common inconvenience of lengthy queues typically encountered in supermarkets, department stores, and various retail environments. By integrating advanced technology with user-friendly interfaces, the self-checkout systems not only expedite the shopping experience but also optimize operational efficiency for retailers, providing a dual benefit that transforms the consumer shopping journey and retailer productivity.
 ##  **Tech Stack**
 <table>
   <tr>
     <!-- Kolom untuk gambar dan teks Java -->
     <td>
-      <img src="https://github.com/Damaramon/Arpet-Feeder/assets/128273587/3ab87199-09d9-4c91-abed-f122c3c1a9aa" alt="Java" style="width: 70px; vertical-align: middle;">
+      <img src="https://github.com/Damaramon/Self-Checkout-Market/assets/128273587/762dbf0d-a05d-4ab4-8752-7d948a31fb1e" alt="Python" style="width: 70px; vertical-align: middle;">
     </td>
     <td>
-      Java (Android Studio)
+      Python
     </td>
   </tr>
-  <tr>
-    <!-- Kolom untuk gambar dan teks MQTT -->
-    <td>
-      <img src="https://github.com/Damaramon/Sporty-Booky/assets/128273587/21e4b4ca-8c12-4069-bd65-2e0a595b20f7" alt="Firebase" style="width: 70px; vertical-align: middle;">
-    </td>
-    <td>
-      Firebase
-    </td>
-  </tr>
+
 
 </table>
 
 
 ##  **Preview Aplikasi**
-![image](https://github.com/Damaramon/Sporty-Booky/assets/128273587/06b53531-be24-4c36-aed6-2342e9545fe5)
+![image](https://github.com/Damaramon/Self-Checkout-Market/assets/128273587/469585f7-2a40-43d9-8140-f48c66c8e15e)
+
 
 
